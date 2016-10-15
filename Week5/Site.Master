@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>lesson 5 content not see this first complete it</title>
+    <title>Comp 2084</title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
     <!-- Latest compiled and minified CSS -->
